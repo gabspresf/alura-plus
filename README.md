@@ -8,7 +8,7 @@
 
 Projeto de uma landing page responsiva, que simula a apresentação de um plano de assinatura, destacando benefícios e dispositivos compatíveis, desenvolvida como parte da formação Front-end da Alura!
 
-![GIF do Alura Plus](https://github.com/user-attachments/assets/20655ff6-b8db-4d9f-b964-001ed0215381)
+![GIF do Alura Plus](https://github.com/user-attachments/assets/65d4b589-186b-4c00-9efc-ffba0ff1edb4)
 
 ---
 
