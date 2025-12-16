@@ -26,4 +26,8 @@ Este projeto vai além do básico, utilizando práticas modernas de desenvolvime
 
 ---
 
-## 📂 Pessoa Desenvolvedora
+## 💻 Desenvolvido por:
+
+**Gabriela Prestes Farias**
+| Desenvolvedora Front-end |
+**LinkedIn:** https://www.linkedin.com/in/gabriela-prestes-farias/
