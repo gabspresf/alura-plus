@@ -20,6 +20,8 @@
 
 Projeto de uma landing page responsiva, que simula a apresentação de um plano de assinatura, destacando benefícios e dispositivos compatíveis, desenvolvida como parte da formação Front-end da Alura!
 
+**Acesse o projeto online:** https://alura-plus-eta-fawn-26.vercel.app/
+
 ---
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
