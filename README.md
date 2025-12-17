@@ -1,9 +1,18 @@
-# 🚀 Alura Plus
+<div align="center">
+  <img src="./assets/Logo.png" alt="Logo Alura Plus" width="300">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Responsividade](https://img.shields.io/badge/Responsive-Mobile-orange?style=for-the-badge)
+  <h1>🚀 Alura Plus - Landing Page</h1>
 
+  <p>
+    Revisão e prática de Front-end: HTML5 Semântico, CSS Moderno e Responsividade.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/Responsive-Mobile%20First-orange?style=for-the-badge">
+  </p>
+</div>
 ## 📖 Descrição
 
 Projeto de uma landing page responsiva, que simula a apresentação de um plano de assinatura, destacando benefícios e dispositivos compatíveis, desenvolvida como parte da formação Front-end da Alura!
