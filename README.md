@@ -1,10 +1,10 @@
 <div align="center">
   <img src="./assets/Logo.png" alt="Logo Alura Plus" width="300">
 
-  <h1>🚀 Alura Plus - Landing Page</h1>
+  <h1>🚀 Alura Plus </h1>
 
   <p>
-    Revisão e prática de Front-end: HTML5 Semântico, CSS Moderno e Responsividade.
+    Uma landing page semântica, moderna e responsiva, desenvolvida com HTML5 e CSS3.
   </p>
 
   <p>
@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/Responsive-Mobile%20First-orange?style=for-the-badge">
   </p>
 </div>
+
+---
+
 ## 📖 Descrição
 
 Projeto de uma landing page responsiva, que simula a apresentação de um plano de assinatura, destacando benefícios e dispositivos compatíveis, desenvolvida como parte da formação Front-end da Alura!
