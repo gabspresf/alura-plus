@@ -20,8 +20,6 @@
 
 Projeto de uma landing page responsiva, que simula a apresentação de um plano de assinatura, destacando benefícios e dispositivos compatíveis, desenvolvida como parte da formação Front-end da Alura!
 
-![GIF do Alura Plus](https://github.com/user-attachments/assets/65d4b589-186b-4c00-9efc-ffba0ff1edb4)
-
 ---
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
@@ -35,6 +33,12 @@ Este projeto vai além do básico, utilizando práticas modernas de desenvolvime
     * **Flexbox:** Utilizado para alinhamentos internos (listas de dispositivos e rodapé).
 * **Responsividade (Mobile First):** Uso de `@media queries` para adaptar o layout de colunas para blocos (`display: block`) em telas menores que 768px.
 * **Tipografia:** Integração com Google Fonts (Fonte Inter).
+
+---
+
+## 📹 Demonstração do Projeto
+
+![GIF do Alura Plus](https://github.com/user-attachments/assets/65d4b589-186b-4c00-9efc-ffba0ff1edb4)
 
 ---
 
