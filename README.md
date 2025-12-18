@@ -18,7 +18,7 @@
 
 ## 📖 Descrição
 
-Projeto de uma landing page responsiva, que simula a apresentação de um plano de assinatura, destacando benefícios e dispositivos compatíveis, desenvolvida como parte da formação Front-end da Alura!
+Projeto de uma landing page responsiva, que simula a apresentação de um plano de assinatura, destacando benefícios e dispositivos compatíveis, desenvolvida baseada nos meus estudos pela formação front-end da Alura!
 
 **Acesse o projeto online:** https://alura-plus-eta-fawn-26.vercel.app/
 
@@ -29,7 +29,7 @@ Projeto de uma landing page responsiva, que simula a apresentação de um plano 
 Este projeto vai além do básico, utilizando práticas modernas de desenvolvimento web:
 
 * **HTML5 Semântico:** Uso correto de tags como `<section>`, `<footer>`, e listas para melhor SEO e acessibilidade.
-* **CSS Variables (`:root`):** Implementação de variáveis para gerenciamento de cores e fontes, facilitando a manutenção e consistência do tema.
+* **CSS3 Variables (`:root`):** Implementação de variáveis para gerenciamento de cores e fontes, facilitando a manutenção e consistência do tema.
 * **Layout Híbrido:**
     * **CSS Grid:** Utilizado na estrutura macro (`.container`) para dividir a tela em colunas de 50%.
     * **Flexbox:** Utilizado para alinhamentos internos (listas de dispositivos e rodapé).
